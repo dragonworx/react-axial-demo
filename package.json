@@ -1,0 +1,11 @@
+{
+  "name": "react-axial-demo",
+  "version": "1.0.0",
+  "description": "A modern take on the classic MVC TODO demo",
+  "scripts": {
+    "start": "/Users/achamas/Dropbox/srv/node_modules/.bin/gulp"
+  },
+  "dependencies": {
+    "react-axial": "*"
+  }
+}
